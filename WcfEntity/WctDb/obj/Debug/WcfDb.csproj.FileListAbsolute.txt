@@ -1,0 +1,12 @@
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\WctDb.dll.config
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\WctDb.dll
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\WctDb.pdb
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\EntityFramework.dll
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\EntityFramework.xml
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\obj\Debug\WcfDb.csprojAssemblyReference.cache
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\obj\Debug\WcfDb.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\obj\Debug\WcfDb.csproj.CopyComplete
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\obj\Debug\WctDb.dll
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WctDb\obj\Debug\WctDb.pdb

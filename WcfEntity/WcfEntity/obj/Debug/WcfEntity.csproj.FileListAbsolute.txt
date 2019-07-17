@@ -1,0 +1,15 @@
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\WcfEntity.exe.config
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\WcfEntity.exe
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\WcfEntity.pdb
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.csprojAssemblyReference.cache
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.Form1.resources
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.Properties.Resources.resources
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.csproj.GenerateResource.cache
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.exe
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.pdb
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\EntityFramework.dll
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\EntityFramework.xml
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicolas Sepulveda\source\repos\WcfEntity\WcfEntity\obj\Debug\WcfEntity.csproj.CopyComplete

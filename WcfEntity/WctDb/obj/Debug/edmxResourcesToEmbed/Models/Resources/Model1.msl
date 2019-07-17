@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WcfPersonaModelStoreContainer" CdmEntityContainer="WcfPersonaEntities">
+    <EntitySetMapping Name="Persona">
+      <EntityTypeMapping TypeName="WcfPersonaModel.Persona">
+        <MappingFragment StoreEntitySet="Persona">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="Rut" ColumnName="Rut" />
+          <ScalarProperty Name="DvRut" ColumnName="DvRut" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="InsertarPersona" FunctionName="WcfPersonaModel.Store.InsertarPersona" />
+    <FunctionImportMapping FunctionImportName="ActualizarPersona" FunctionName="WcfPersonaModel.Store.ActualizarPersona" />
+    <FunctionImportMapping FunctionImportName="EliminarPersona" FunctionName="WcfPersonaModel.Store.EliminarPersona" />
+  </EntityContainerMapping>
+</Mapping>
